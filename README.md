@@ -40,15 +40,19 @@ On your RPi:
 NOTES:
 ------
 Pay close attention to upper/lowercase of the above commands!
+
 It's CRITICAL!
 
 Once the installation script runs, just follow any prompts.
+
 Lots of information is shown, while the installation happens.
 
-If you are running this installation on an existing Raspbian, then errors may happen.
+If you are running this installation on an existing Raspbian OS, then errors may happen.
 
 No warranty or guarantee is made or implied.
+
 Your mileage may vary!
+
 Good luck, and enjoy!
 
 Matt
