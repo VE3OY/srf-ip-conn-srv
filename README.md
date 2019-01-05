@@ -18,7 +18,7 @@ Download the ZIP file that has everything you will need.<br>
 <br>
 On your PC:<br>
 - create a temporary directory to work from (NOT c:\temp!)<br>
-- un-zip "IPC_Install.zip" into that directory<br>
+- un-zip the downloaded file into that directory<br>
 <br>
 On your RPi:<br>
 - create a new sub-directory on your RPi:  mkdir /home/pi/IPC<br>
