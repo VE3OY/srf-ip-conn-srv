@@ -26,31 +26,22 @@ On your PC:
 On your RPi:
 - create a new sub-directory on your RPi:  mkdir /home/pi/IPC
 - copy all of the un-zipped files from your PC, to that directory on your RPi
-- at a command prompt, type the following commands:
-
-	sudo su
-	
-	cd /home/pi/IPC
-	
-	chmod +x InstallIPConnectorV6.sh
-	
-	./InstallIPConnectorV5.sh
+- at a command prompt, type the following commands:<br>
+	sudo su<br>
+	cd /home/pi/IPC<br>
+	chmod +x InstallIPConnectorV6.sh<br>
+	./InstallIPConnectorV5.sh<br>
 	
 
 NOTES:
 ------
-Pay close attention to upper/lowercase of the above commands!
+Pay close attention to upper/lowercase of the above commands!<br>
+It's CRITICAL!<br>
 
-It's CRITICAL!
-
-Once the installation script runs, just follow any prompts.
-
-Lots of information is shown, while the installation happens.
-
-If you are running this installation on an existing Raspbian OS, then errors may happen.
-
-No warranty or guarantee is made or implied.
-
+Once the installation script runs, just follow any prompts.<br>
+Lots of information is shown, while the installation happens.<br>
+If you are running this installation on an existing Raspbian OS, then errors may happen.<br>
+No warranty or guarantee is made or implied.<br>
 Your mileage may vary!<br>
 Good luck, and enjoy!
 
