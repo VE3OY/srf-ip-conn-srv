@@ -25,13 +25,13 @@ On your PC:<br>
 <br>
 On your Raspberry Pi:<br>
 - create a new sub-directory:<br>
-<ol>mkdir /home/pi/IPC</ol><br>
+<ol>mkdir /home/pi/IPC</ol>
 - copy all of the un-zipped files from your PC to that new directory<br>
 - at a command prompt, type the following commands:<br>
-sudo su<br>
+<ol>sudo su<br>
 cd /home/pi/IPC<br>
 chmod +x InstallIPConnectorV6.sh<br>
-./InstallIPConnectorV5.sh</ul>
+./InstallIPConnectorV5.sh</ol>
 <br>
 NOTES:<br>
 --------<br>
