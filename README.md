@@ -31,7 +31,7 @@ On your Raspberry Pi:<br>
 <ol>sudo su<br>
 cd /home/pi/IPC<br>
 chmod +x InstallIPConnectorV6.sh<br>
-./InstallIPConnectorV5.sh</ol>
+./InstallIPConnectorV6.sh</ol>
 <br>
 NOTES:<br>
 --------<br>
