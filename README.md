@@ -25,7 +25,7 @@ On your PC:<br>
 <br>
 On your Raspberry Pi:<br>
 - create a new sub-directory:<br>
- <ul>mkdir /home/pi/IPC</ul><br>
+ <ul>mkdir /home/pi/IPC</ul>
 - copy all of the un-zipped files from your PC to that new directory<br>
 - at a command prompt, type the following commands:<br>
 <ul>sudo su<br>
