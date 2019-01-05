@@ -20,9 +20,9 @@ On your PC:<br>
 - create a temporary directory to work from (NOT c:\temp!)<br>
 - un-zip the downloaded file into that directory<br>
 <br>
-On your RPi:<br>
-- create a new sub-directory on your RPi:  mkdir /home/pi/IPC<br>
-- copy all of the un-zipped files from your PC, to that directory on your RPi<br>
+On your Raspberry Pi:<br>
+- create a new sub-directory:  mkdir /home/pi/IPC<br>
+- copy all of the un-zipped files from your PC to that new directory<br>
 - at a command prompt, type the following commands:<br>
 	sudo su<br>
 	cd /home/pi/IPC<br>
