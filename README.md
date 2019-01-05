@@ -14,6 +14,9 @@ You are running, or are ok with running Raspbian Stretch.<br>
 <br>
 What do you need to do to start?<br>
 <br>
+Start by putting a fresh image of Raspbian Stretch onto your Raspberry Pi.<br>
+Set up your Pi (hostname/timezone/etc)<br>
+<br>
 Download the ZIP file that has everything you will need.<br>
 <br>
 On your PC:<br>
