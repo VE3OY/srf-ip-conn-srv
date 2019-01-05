@@ -19,6 +19,7 @@ What do you need to do to start?
 Download the ZIP file that has everything you will need.
 
 On your PC:
+
 - create a temporary directory to work from (NOT c:\temp!)
 - un-zip "IPC_Install.zip" into that directory
 
@@ -26,6 +27,7 @@ On your RPi:
 - create a new sub-directory on your RPi:  mkdir /home/pi/IPC
 - copy all of the un-zipped files from your PC, to that directory on your RPi
 - at a command prompt, type the following commands:
+
 	sudo su
 	cd /home/pi/IPC
 	chmod +x InstallIPConnectorV6.sh
