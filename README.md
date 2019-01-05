@@ -8,7 +8,7 @@ incomplete or misleading.
 I decided to write an automated installation for this great piece of software.
 
 Assumption(s):
-
+--------------
 You own a Raspberry Pi 3, that has 1 GB of RAM and a 4 core ARM CPU.
 
 You want to install and use this server software.
