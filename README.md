@@ -29,9 +29,13 @@ On your RPi:
 - at a command prompt, type the following commands:
 
 	sudo su
+	
 	cd /home/pi/IPC
+	
 	chmod +x InstallIPConnectorV6.sh
+	
 	./InstallIPConnectorV5.sh
+	
 
 NOTES:
 ------
