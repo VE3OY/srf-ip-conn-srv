@@ -51,8 +51,7 @@ If you are running this installation on an existing Raspbian OS, then errors may
 
 No warranty or guarantee is made or implied.
 
-Your mileage may vary!
-
+Your mileage may vary!<br>
 Good luck, and enjoy!
 
 Matt
