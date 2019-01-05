@@ -1,7 +1,7 @@
 # srf-ip-conn-srv
-<H1>SharkRF IP Connector server automated installation for Raspberry Pi 3</H1>
+<H1>SharkRF IP Connector server AUTOMATED installation for Raspberry Pi 3</H1>
 
-After helping several HAM's perform the installation of SharkRF's IP Connector server,
+<H4>After helping several HAM's perform the installation of SharkRF's IP Connector server,
 it became obvious to me that the instructions out on the internet were either
 incomplete or misleading.
 <br>
