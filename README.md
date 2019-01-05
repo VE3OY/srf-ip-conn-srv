@@ -43,8 +43,7 @@ This installation routine will do the following:<br>
 - Install NTP (Network Time Protocol)<br>
 - Disable the default 100MB swap file<br>
 - Install ZRAM swap in RAM (not file!)<br>
-- Install the IP Connector as a service, so it auto-restarts<br>
-  after a failure or reboot.<br>
+- Install the IP Connector as a service, so it auto-restarts after a failure or reboot.<br>
 <br>
 Once the installation script runs, just follow any prompts.<br>
 Lots of information is shown, while the installation happens.<br>
