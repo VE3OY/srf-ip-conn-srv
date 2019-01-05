@@ -38,6 +38,14 @@ NOTES:<br>
 Pay close attention to upper/lowercase of the above commands!<br>
 It's CRITICAL!<br>
 
+This installation routine will do the following:<br>
+- Install NGINX rather than APACHE2<br>
+- Install NTP (Network Time Protocol)<br>
+- Disable the default 100MB swap file<br>
+- Install ZRAM swap in RAM (not file!)<br>
+- Install the IP Connector as a service, so it auto-restarts<br>
+  after a failure or reboot.<br>
+<br>
 Once the installation script runs, just follow any prompts.<br>
 Lots of information is shown, while the installation happens.<br>
 If you are running this installation on an existing Raspbian OS, then errors may happen.<br>
