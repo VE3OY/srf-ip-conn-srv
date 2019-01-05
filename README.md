@@ -24,7 +24,7 @@ On your PC:<br>
 - un-zip the downloaded file into that directory<br>
 <br>
 On your Raspberry Pi:<br>
-- create a new sub-directory:<br>
+<li> create a new sub-directory:</li><br>
  <ul>mkdir /home/pi/IPC</ul>
 - copy all of the un-zipped files from your PC to that new directory<br>
 - at a command prompt, type the following commands:<br>
