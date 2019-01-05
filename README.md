@@ -37,7 +37,7 @@ NOTES:<br>
 --------<br>
 Pay close attention to upper/lowercase of the above commands!<br>
 It's CRITICAL!<br>
-
+<br>
 This installation routine will do the following:<br>
 - Install NGINX rather than APACHE2<br>
 - Install NTP (Network Time Protocol)<br>
