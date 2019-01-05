@@ -39,7 +39,7 @@ Pay close attention to upper/lowercase of the above commands!<br>
 It's CRITICAL!<br>
 <br>
 This installation routine will do the following:<br>
-- Install NGINX rather than APACHE2<br>
+- Install NGINX (rather than APACHE2) and PHP<br>
 - Install NTP (Network Time Protocol)<br>
 - Disable the default 100MB swap file<br>
 - Install ZRAM swap in RAM (not file!)<br>
