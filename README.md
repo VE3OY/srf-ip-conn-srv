@@ -13,8 +13,8 @@ You want to install and use this server software.<br>
 You are running, or are ok with running Raspbian Stretch.<br>
 <br>
 Here is what you need to start:<br>
-<br>
-Start by putting a fresh image of Raspbian Stretch onto your Raspberry Pi.<br>
+-------------------------------<br>
+Begin by putting a fresh image of Raspbian Stretch onto your Raspberry Pi.<br>
 Set up your Pi (hostname/timezone/etc)<br>
 <br>
 Download the ZIP file that has everything you will need.<br>
