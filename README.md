@@ -32,6 +32,7 @@ On your RPi:
 	./InstallIPConnectorV5.sh
 
 NOTES:
+------
 Pay close attention to upper/lowercase of the above commands!
 It's CRITICAL!
 
