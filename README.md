@@ -28,8 +28,8 @@ On your RPi:<br>
 	chmod +x InstallIPConnectorV6.sh<br>
 	./InstallIPConnectorV5.sh<br>
 <br>
-NOTES:
-------
+NOTES:<br>
+------<br>
 Pay close attention to upper/lowercase of the above commands!<br>
 It's CRITICAL!<br>
 
