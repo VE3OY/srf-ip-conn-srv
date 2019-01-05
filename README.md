@@ -2,8 +2,7 @@
 <H1>SharkRF IP Connector server AUTOMATED<br>installation for Raspberry Pi 3</H1>
 
 <H4>After helping several HAM's perform the installation of SharkRF's IP Connector server,<br>
-it became obvious to me that the instructions out on the internet were either
-incomplete or misleading.
+it became obvious to me that the instructions out on the internet were inaccurate.
 <br>
 I decided to write an automated installation for this great piece of software.<br>
 <br>
