@@ -49,7 +49,13 @@ This installation routine will do the following:<br>
 <br>
 Once the installation script runs, just follow any prompts.<br>
 Lots of information is shown, while the installation happens.<br>
-If you are running this installation on an existing Raspbian OS, then errors may happen.<br>
+If you are attempting to install this on another Raspbian OS, then errors may happen.<br>
+
+Important:
+-----------
+For this program to work, you need to set up port-forwarding on your router/firewall
+so that Port 65100 is open to the internet.
+
 No warranty or guarantee is made or implied.<br>
 Your mileage may vary!<br>
 Good luck, and enjoy!<br>
