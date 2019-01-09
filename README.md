@@ -42,7 +42,8 @@ It's CRITICAL!<br>
 <br>
 This installation routine will do the following:<br>
 - Update and upgrade your Raspbian OS<br>
-- Install NGINX (rather than APACHE2) and PHP<br>
+- Install NGINX (rather than APACHE2)
+- Install PHP7<br>
 - Install NTP (Network Time Protocol)<br>
 - Disable the default 100MB swap file<br>
 - Install ZRAM swap in RAM (not file!)<br>
