@@ -4,17 +4,17 @@
 <H4>After helping several HAM's perform the installation of SharkRF's IP Connector server,<br>
 it became obvious to me that the instructions out on the internet were inaccurate.
 <br>
-I decided to write an automated installation for this great piece of software.<br>
-<br>
-Assumption(s):<br>
-----------------<br>
+I decided to write an automated installation for this great piece of software.<hr>
+
+Assumptions:
+---
 You own a Raspberry Pi 3, that has 1 GB of RAM and a quad core ARM CPU.<br>
 You want to install and use this server software.<br>
 You are running, or are ok with running Raspbian Stretch.<br>
-You have a working internet connection for your Raspberry Pi.<br>
-<br>
-Here is what you need to start:<br>
------------------------------------<br>
+You have a working internet connection for your Raspberry Pi.<hr>
+
+Here is what you need to start:
+---
 Begin by putting a fresh image of Raspbian Stretch onto your Raspberry Pi.<br>
 Set up your Pi (hostname/timezone/etc).<br>
 <br>
