@@ -54,7 +54,8 @@ If you are attempting to install this on another Raspbian OS, then errors may ha
 Important:
 -----------
 For this program to work, you need to set up port-forwarding on your router/firewall<br>
-so that Port 65100 is open to the internet.
+so that Port 65100 is open to the internet.  If this port is not opened, then nobody<br>
+outside of your home network will be able to connect to it.
 
 No warranty or guarantee is made or implied.<br>
 Your mileage may vary!<br>
