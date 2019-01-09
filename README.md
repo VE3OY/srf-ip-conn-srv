@@ -34,7 +34,8 @@ cd /home/pi/IPC<br>
 chmod +x InstallIPConnectorV6.sh<br>
 ./InstallIPConnectorV6.sh</ol>
 <br>
-NOTES:
+
+Notes:
   -----<br>
 Pay close attention to upper/lowercase of the above commands!<br>
 It's CRITICAL!<br>
