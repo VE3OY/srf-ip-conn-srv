@@ -4,7 +4,10 @@
 <H4>After helping several HAM's perform the installation of SharkRF's IP Connector server,<br>
 it became obvious to me that the instructions out on the internet were inaccurate.
 <br>
-I decided to write an automated installation for this great piece of software.<hr>
+I decided to write an automated installation for this great piece of software.<br>
+You can use, modify, share or re-trasmit this script any way you see fit.<br>
+I won't apply any license restrictions to this work.<br>
+I'm releasing it to make Amateur Radio better.<hr>
 
 Assumptions:
 ---
